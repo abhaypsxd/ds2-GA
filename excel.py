@@ -1,7 +1,9 @@
 import pandas as pd
 
-# Read the CSV data
-df = pd.read_csv('JPN[1].csv')
+for i in range(2017,2024):
 
-# Write the DataFrame to an Excel file
-df.to_excel('JPN.xlsx', index=False)
+    # Read the CSV data
+    df = pd.read_csv(f'{i}.csv')
+
+    # Write the DataFrame to an Excel file
+    df.to_excel(f'{i}.xlsx', index=False)
