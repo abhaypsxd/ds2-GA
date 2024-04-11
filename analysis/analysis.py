@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.gridspec import GridSpec
 
-df = pd.read_csv("JPN[1].csv")
+df = pd.read_csv("../csvs/JPN[1].csv")
 # print(df['Jan.'])
 
 df_mini = df.iloc[0:18, :]
@@ -47,4 +47,4 @@ for i in category_wise_df:
     ax1.bar(x,y2)
     ax1.set_xticklabels(x, rotation=90)
     ax1.set_title('category wise plots for 2018')
-    plt.show()
+    plt.savefig('../images/category_wise_plot.png')

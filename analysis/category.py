@@ -5,7 +5,7 @@ from matplotlib.gridspec import GridSpec
 
 for i in range(2017,2024):
 
-    df = pd.read_csv(f'{i}.csv')
+    df = pd.read_csv(f'../csvs/{i}.csv')
 
 
     category_list = df['Name'].tolist()
