@@ -24,4 +24,14 @@ for i in range(2017,2024):
         final_cars.append(i[0])
     yearwise_cars.append(final_cars)
 
-print(yearwise_cars)
+dict_list=[]
+for i in yearwise_cars:
+    dict1={}
+    for j in range(len(i)):
+        dict1[cars[j]]=i[j]
+    dict_list.append(dict1)
+
+df = pd.DataFrame(dict_list, index=range(2017,2024))
+df.index.name='Year'
+df.to_csv('cars.csv')
+
