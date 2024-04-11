@@ -214,7 +214,7 @@ end of September 2019 when the acquisition tax was abolished.
 ### Contributions:
 
 - Piyush Dwivedi: Wrote the entire analysis, conducted research, and compiled the information. (20%)
-- Abhay Pratap Singh: Provided the statistical analysis and data visualization. (20%)
+- Abhay Pratap Singh: Did Data Sampling, provided sampling technique, conducted quantitative data analysis, and descriptives statistics, did the same for a sample brand (Toyota). Also provided graphical analysis for all the statistics. (20%)
 - Piyush Radheyshyam Panpaliya: Provided the required data and insights. (20%)
 - Suyash Bilmore: Latex creation and final editing. (13.33%)
 - Prabhat Kumar Sahu: Provided sources of data collection and Latex creation (13.33%)
