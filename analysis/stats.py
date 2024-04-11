@@ -5,8 +5,8 @@ from matplotlib.gridspec import GridSpec
 import statistics
 from scipy import stats
 
-df1 = pd.read_csv("csvs/trucks.csv")
-df2 = pd.read_csv("csvs/cars.csv")
+df1 = pd.read_csv("../csvs/trucks.csv")
+df2 = pd.read_csv("../csvs/cars.csv")
 
 # mechanic:
 # scale:
@@ -102,4 +102,24 @@ for i in dict_frequency_scale:
     data_frequency_graph[scale[i-1]] = dict_frequency_scale[i]
 print(data_frequency_graph)
 plt.bar(*zip(*data_frequency_graph.items()))
+plt.show()
+
+#Pie Chart
+fig = plt.figure(figsize=(10,6))
+gs = GridSpec(1,1)
+plt.pie(dict_frequency_scale.values(), labels=scale)
+plt.show()
+
+#Histogram
+fig = plt.figure(figsize=(10,6))
+gs = GridSpec(1,1)
+bin_edges = plt.hist(data_entities_scale, bins=5, edgecolor='black')
+bin_midpoints = 0.5*(bin_edges[1][1:]+bin_edges[1][:-1])
+plt.plot(bin_midpoints, bin_edges[0], color='b', marker='o', linestyle='--')
+plt.show()
+
+#Box Plot
+fig = plt.figure(figsize=(10,6))
+gs = GridSpec(1,1)
+plt.boxplot(data_frequency_graph.values())
 plt.show()
