@@ -9,7 +9,7 @@ yearwise_trucks = []
 yearwise_trucks = []
 
 for i in range(2017,2024):
-    df=pd.read_csv(f'{i}.csv')
+    df=pd.read_csv(f'../csvs/{i}.csv')
     l1=[]
     for i in trucks:
         df_mini = df.loc[(df['Brand'] == i)]
@@ -29,5 +29,5 @@ for i in yearwise_trucks:
 
 df = pd.DataFrame(dict_list, index=range(2017,2024))
 df.index.name='Year'
-df.to_csv('trucks.csv')
+df.to_csv('../csvs/trucks.csv')
 
