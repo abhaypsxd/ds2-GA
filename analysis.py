@@ -16,8 +16,16 @@ for i in range(len(category_list)):
         if category_list[i] == j:
             category_list_index.append(i)
 category_wise_df = []
-for i in category_list_index:
-    df1 = df.iloc[i:i+1, :]
+
+# print(category_list_index)
+
+for i in range(len(category_list_index)-1):
+    df1 = df.iloc[category_list_index[i]:category_list_index[i+1], :]
     category_wise_df.append(df1)
+
 for i in category_wise_df:
-    print(i)
+    x = i['Maker/Brand'].tolist()
+    y = i['Jan.'].tolist()
+    plt.bar(x,y)
+    plt.title('Category Wise for January')
+    plt.show()
