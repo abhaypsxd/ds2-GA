@@ -5,8 +5,8 @@ from matplotlib.gridspec import GridSpec
 import statistics
 from scipy import stats
 
-df1 = pd.read_csv("trucks.csv")
-df2 = pd.read_csv("cars.csv")
+df1 = pd.read_csv("csvs/trucks.csv")
+df2 = pd.read_csv("csvs/cars.csv")
 
 # mechanic:
 # scale:
@@ -96,11 +96,10 @@ for i in dict_frequency_scale:
 #Graphs
 fig = plt.figure(figsize=(10,6))
 gs = GridSpec(1,1)
-ax1 = fig.add_subplot(gs[0,0])
 data_frequency_graph = {}
 scale = ['Very Low','Low','Normal','High','Very High']
-for i in range(len(dict_frequency_scale)):
-    data_frequency_graph[scale[i]] = dict_frequency_scale[i]
-ax1.hist(data_frequency_graph, bins=5, edgecolor='black')
-ax1.set_title('Sales Indicator')
+for i in dict_frequency_scale:
+    data_frequency_graph[scale[i-1]] = dict_frequency_scale[i]
+print(data_frequency_graph)
+plt.bar(*zip(*data_frequency_graph.items()))
 plt.show()
