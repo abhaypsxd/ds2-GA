@@ -1,6 +1,113 @@
 # Piyush Dwivedi ka kaaam
 
-## MOTIVATION
+## Index:
+
+### Motivation
+
+### Method
+
+### Data Analysis(Quantitative)
+
+### Data Analysis(Qualitative)
+
+#### EVs and Japan
+
+#### Global Influence
+
+### Conclusion
+
+### References:
+
+### Contributions:
+
+## MOTIVATION:
+
+<p>The analysis of the automobile industry in Japan holds significant importance due to several compelling factors:</p>
+
+### Economic Powerhouse:
+
+Japan's automobile industry stands as a cornerstone of the nation's economy, contributing substantially to employment, investment attraction, and GDP growth. Understanding the industry's current state and future trajectory is pivotal for policymakers, investors, and stakeholders to formulate informed strategies and drive sustained economic prosperity.
+
+### Technological Vanguard:
+
+Renowned for its innovation and engineering prowess, Japan spearheads technological advancements within the automotive sector. With ongoing developments in electric vehicles (EVs), autonomous driving technologies, and smart mobility solutions, comprehending Japan's role in shaping the future of automotive innovation is essential for industry stakeholders to remain competitive on a global scale.
+
+### Market Dynamics:
+
+Japan boasts a sophisticated consumer market characterized by discerning tastes and evolving preferences. Analyzing market trends, consumer behaviors, and competitive dynamics within Japan's automotive sector enables businesses to identify untapped opportunities, tailor product offerings, and devise effective market entry strategies.
+
+### Regulatory Landscape:
+
+Government policies and regulations play a pivotal role in shaping Japan's automotive industry. From emission standards to safety regulations and trade policies, understanding the regulatory environment is paramount for industry players to navigate compliance requirements, mitigate risks, and capitalize on emerging opportunities.
+
+### Environmental Imperatives:
+
+As sustainability gains prominence globally, Japan's automotive industry is increasingly focused on eco-friendly solutions and carbon footprint reduction. Analyzing Japan's initiatives towards promoting green mobility, including hybrid vehicles, fuel-efficient technologies, and renewable energy integration, provides valuable insights into the industry's efforts to align with environmental goals and consumer preferences.
+
+### Global Competitiveness:
+
+Japan's automotive manufacturers compete vigorously in both domestic and international markets, driving innovation and setting benchmarks for quality and reliability. Examining the competitive landscape, market positioning strategies, and technological capabilities of Japanese automakers enables businesses to benchmark performance, identify competitive advantages, and foster strategic collaborations for sustainable growth.
+
+### Cultural Influence:
+
+Japan's unique cultural values and societal trends influence consumer preferences and product adoption within the automotive industry. Understanding cultural nuances, brand perceptions, and lifestyle trends enriches market insights and facilitates the development of culturally resonant marketing strategies and product offerings.
+
+### Supply Chain Dynamics:
+
+Japan's automotive ecosystem encompasses a complex network of suppliers, manufacturers, and distributors. Analyzing supply chain dynamics, resilience strategies, and emerging trends such as Just-In-Time (JIT) manufacturing and Industry 4.0 integration enables businesses to optimize operations, mitigate disruptions, and enhance overall efficiency.
+
+### Global Partnerships:
+
+Collaboration and partnerships between Japanese automotive companies, technology firms, research institutions, and government agencies foster innovation and competitiveness on a global scale. Studying collaborative initiatives, joint ventures, and cross-industry alliances provides insights into emerging synergies, technology transfers, and market expansion strategies.
+
+### Consumer-Centric Innovation:
+
+Japan's automotive industry places a strong emphasis on consumer-centric innovation, leveraging cutting-edge technologies to enhance safety, comfort, and driving experience. Analyzing consumer insights, feedback mechanisms, and innovation pipelines enables businesses to anticipate market demands, address unmet needs, and deliver differentiated value propositions that resonate with target audiences.
+
+<p align="centre">In conclusion, the analysis of Japan's automobile industry offers a multifaceted perspective essential for stakeholders to navigate dynamic market forces, capitalize on emerging opportunities, and drive sustainable growth in the ever-evolving automotive landscape.<p>
+
+## EVs and Japan:
+
+- Japan’s transition to electric vehicles (EVs) has just begun. In the near future, Japanese consumers and businesses will seek American EV products and solutions, presenting U.S. companies with increasing business opportunities in components, systems, software and aftermarket products.
+
+- Japan’s passenger EV market set record sales in 2022. According to the Japan Automobile Dealers Association (JADA) and Japan Mini Vehicles Association (Zenkeijikyo), in 2022, 58,813 battery electric vehicles (BEVs) were sold in Japan, which was 2.7 times more than in 2021. The BEV ratio (BEVs share of passenger car sales) grew to 1.7% in 2022, surpassing 2021 (0.6%) and exceeding the 1% threshold for the first time. BEV sales in Japan are expected to further increase as Japan targets 100% environmentally friendly vehicles by 2035, and as consumers consider the environmental and economic benefits of EVs.
+
+-The recent growth in BEV sales in Japan was led by a booming demand for Kei EVs. Kei cars translate as “light-weight automobiles” and are Japan’s smallest highway-legal passenger cars with restricted dimensions and engine capacity. Kei EV sales grew from 554 units in 2021 to 27,221 units in 2022 and accounted for 46.3% of total BEV sales. The best-selling Kei EV models were the Nissan Sakura and Mitsubishi eK X EV. Both cars received the “Japan Car of the Year” award; this marks the first time Kei EVs have been selected in the award’s 43-year history.
+
+### Tax incentive Measures:
+
+<p align="left">
+    To help expedite the shift to low-carbon road transport in the interest of curbing global warming and to help 
+improve air quality, the Japanese government has, since April 2009, applied auto-related tax incentives to promote 
+the wider use of eco-friendly vehicles.  Updated incentives and eligibility requirements came into effect in April and 
+May 2021 and their effective periods were extended for two years.  Incentives for the acquisition tax expired at the 
+end of September 2019 when the acquisition tax was abolished.
+</p>
+
+#### TONNAGE TAX REDUCTIONS/EXEMPTIONS:
+
+<p align="center">
+  <img src="tonnage1.png" alt="Title">
+</p>
+
+<p align="center">
+  <img src="tonnage2.png" alt="Title">
+</p>
+
+#### Enviromental performance based Tax Reductions:
+
+<p align="center">
+  <img src="taxReduction.png" alt="Title">
+</p>
+
+- From October 1, 2019, an automotive environmental performance-based tax came into effect as an adjunct provision to the automobile tax and the mini-vehicle tax. It is imposed at the time of vehicle (passenger car, mini-vehicle, heavy-duty vehicle, etc.) purchase and calculated on the basis of the vehicle’s environmental (i.e., fuel efficiency, emissions) performance and its purchase price.
+- The tax applies to both new and used vehicles, with the exception of vehicles purchased for ¥500,000 or less, which are exempted from the tax.
+- The fuel efficiency and other environmental performance criteria on the basis of which the tax’s varying rates (e.g., from 0% to 3% for passenger vehicles and from 0% to 2% for commercial vehicles and mini-vehicles) have been determined are in line with criteria established in Japan’s Energy Conservation Law. Highly fuel-efficient as well as electrified and other designated vehicles are exempted from the tax
+
+#### Conclusion:
+
+<p align="centre">
+    In order to stimulate demand for EVs, the Japanese government continues to offer subsidies for purchases of new EVs with a revised budget of 70 billion Japanese Yen (approximately US$501 million) for fiscal year 2022. The subsidy amounts for new purchases are 650,000 Japanese Yen (US$4,656) for BEVs, 450,000 Japanese Yen (US$3,223) for Kei EVs and Plug-In Hybrid Electric Vehicles (PHEVs), and 2,300,000 Japanese Yen (US$16,474) for Fuel Cell Electric Vehicles (FCEVs). If a vehicle meets certain requirements, such as having a power supply function that can draw power from an onboard outlet (1500W/AC100V), or a capability of extracting power via an external power supply or V2H charger, the vehicle may qualify for a higher subsidy amount. In this case, the maximum subsidies are 850,000 Japanese Yen (US$6,089) for BEVs, 550,000 Japanese Yen (US$3,940) for Kei EVs and PHEVs, and 2,550,000 Japanese Yen (US$18,268) for FCEVs.</p>
 
 ## GLOBAL INFLUENCE
 
@@ -91,3 +198,24 @@
 <p align="center">
   <img src="chinatieup.png" alt="Title">
 </p>
+
+### Conclusion:
+
+<p align= "centre" >In conclusion, the meticulous scrutiny of Japan's automobile industry unravels a tapestry of unparalleled significance, depicting it as a bastion of innovation, technological acumen, and relentless market competitiveness. From pioneering advancements in electric vehicles to spearheading breakthroughs in autonomous driving technology, Japan stands at the vanguard of automotive evolution. Its cultural ethos, deeply intertwined with a commitment to quality and precision engineering, permeates every aspect of the industry, shaping consumer perceptions and market dynamics worldwide. As a global powerhouse driving the future of mobility, Japan's influence transcends borders, cementing its legacy as a trailblazer in the automotive realm, poised to navigate and redefine the ever-evolving landscape of transportation.</p>
+
+### References:
+
+- https://www.jetro.go.jp/en/trends/industry/automobile/japan_auto_industry.html
+- https://www.jama.or.jp/english/
+- https://wikipedia.org
+- AI tools like Microsoft Bing AI and CHatGPT
+- https://google.com
+
+### Contributions:
+
+- Piyush Dwivedi: Wrote the entire analysis, conducted research, and compiled the information. (20%)
+- Abhay Pratap Singh: Provided the statistical analysis and data visualization. (20%)
+- Piyush Radheyshyam Panpaliya: Provided the required data and insights. (20%)
+- Suyash Bilmore: Latex creation and final editing. (13.33%)
+- Prabhat Kumar Sahu: Provided sources of data collection and Latex creation (13.33%)
+- Sourav Mahil: Latex creation and final editing. (13.33%)
